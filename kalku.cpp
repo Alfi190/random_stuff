@@ -13,7 +13,7 @@ int main(){
 	bah = a + b;
 	rang = a - b;
 	li = a * b;
-	gi = b / a;
+	gi = a / b;
 	
 	
 	cout<< "Hasil jumlah: " << bah << endl;
